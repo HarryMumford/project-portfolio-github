@@ -1,6 +1,6 @@
 # Projects
 
-##
+***
 
 |Project name | Build time | Description | Technologies used |
 |:---|:---|:---|:---|
