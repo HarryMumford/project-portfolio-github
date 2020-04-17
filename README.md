@@ -1,7 +1,5 @@
 # Projects
 
-***
-
 |Project name | Build time | Description | Technologies used |
 |:---|:---|:---|:---|
 | [Mind over cells](https://github.com/Hyan18/the-css) | 10 days |A visualization of a cellular automaton; based on Conway's Game of Life | MERN stack, TravisCI, Heroku, Jest, Enzyme |
