@@ -2,7 +2,7 @@
 
 ##
 
-|Project Name | Build time | Description | Technologies used |
+|Project name | Build time | Description | Technologies used |
 |:---|:---|:---|:---|
 | [Mind over cells](https://github.com/Hyan18/the-css) | 10 days |A visualization of a cellular automaton; based on Conway's Game of Life | MERN stack, TravisCI, Heroku, Jest, Enzyme, Heroku |
 | [Facade Brochure](https://github.com/EManifold/acebook-zuckermen) | 10 days | A fancy alternative to Facebook | Rails, Rspec, TravisCI, jQuery, Heroku |
